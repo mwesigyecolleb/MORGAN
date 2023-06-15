@@ -1,0 +1,105 @@
+.container {
+    background-color: blueviolet;
+}
+.heading {
+    width: 100%;
+    height: 50%;
+    background-color: blueviolet;
+
+}
+.menu {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(122, 165, 42)
+}
+.signup {
+    width:20%;
+    height: 100%;
+    background-color: aliceblue;
+    float: left;
+    color: black;
+}
+.menu-bar {
+    height: 100%;
+    width: 20%;
+    background-color: blue;
+    float: left;
+}
+.heading ul{
+    width: 100%;
+    height: 100%;
+    background-color: darkgreen;
+    padding: 0% !important;
+    text-align: center;
+    line-height: 50px;
+
+}
+.heading ul li{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(73, 245, 50);
+    float: left;
+}
+.banner {
+    width:100%;
+    height: 800px;
+    background-size: 100% 800px;
+    background-image: url('flight3.jpg');
+    background-repeat: no-repeat;
+}
+.content {
+    width: 100%;
+    height: 500px;
+    background-color: rgb(253, 253, 246);
+}
+.content-left {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(24, 53, 18);
+    float: left;
+}
+.content-right {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(212, 59, 21);
+    float: left;
+}
+.advert {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(248, 250, 245);
+}
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(48, 107, 25);
+}
+.adv{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+div {
+    color: rgb(47, 77, 51);
+}
+
+.heading ul li:hover {
+    background-color: rgb(83, 112, 4);
+    font-size: 50px;
+    color: blue;
+}
+.heading ul li a{
+    text-decoration: none;
+    color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#pimg1{
+    min-height: 70%;
+}
+button{
+   margin-left: 53%;
+   margin-top: -10px;
+   background-color: rgb(232, 241, 235);
+}
